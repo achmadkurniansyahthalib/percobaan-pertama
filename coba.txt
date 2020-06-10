@@ -1,0 +1,4 @@
+Dalam percobaan pertama, list pekerjaan yang akan dibuat adalah sebagai berikut
+- Membuat Repo
+- Menjelaskan Commit
+- Membuat Branch
