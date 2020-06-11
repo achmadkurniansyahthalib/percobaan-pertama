@@ -1,0 +1,13 @@
+- Buat Header 1 Kontennya :
+    - Intro (seperti "Berikut Ini biodata saya")
+    - Nama :
+    - Asal :
+    - Tempat Lahir :
+    - Alamat :
+    - Usia  : 
+- Buat Header 2 dengan konten :
+    - Intro ("Saya memiliki hobi yang unik, hobi saya dapat dilihat pada gambar dibar ini")
+    - Gambar hobi (misal kalau menulis pakai gambar buku, menyanyi bisa pakai alat musik, dsbnya)
+    - buat 2 gambar, 1 diambil dari URL dan 1 dari Lokal komputer
+- Buat Tabel dengan isi Nama, Asal, Usia, Tempat Lahir. Isi namanya dengan siswa kelas ini dan komponen lainnya isi bebas
+- Buat Header 2 dengan komponen video didalamnya dengan kalimat intro
