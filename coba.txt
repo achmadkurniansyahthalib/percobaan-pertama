@@ -10,3 +10,5 @@ Dalam percobaan pertama, list pekerjaan yang akan dibuat adalah sebagai berikut
    * List
    * Looping
  - Masuk ke modul 2
+
+dong ayo dong tambahkan
